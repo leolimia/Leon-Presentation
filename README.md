@@ -4,7 +4,7 @@
 
 ## 💯😎 Full stack Developer 💻 
 
-## 📚📣 Formado en `MindHub - Ubiqum Code Academy` 🙌 ✔ <img src="https://mindhubweb.com/wp-content/themes/mindhub-theme/resources/assets/images/logo-mindhub.png" width="208">
+## 📚📣 Formado en `MindHub - Ubiqum Code Academy` 🙌 ✔ <img src="https://mindhubweb.com/wp-content/themes/mindhub-theme/resources/assets/images/logo-mindhub.png" width="308">
 
 [MindHub!](https://mindhubweb.com/)💾
 
