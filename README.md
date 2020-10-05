@@ -4,7 +4,7 @@
 
 ## 💯😎 Full stack Developer 💻 
 
-## 📚📣 Formado en `MindHub - Ubiqum Code Academy` 🙌 ✔ ![Image of Yaktocat](https://mindhubweb.com/wp-content/themes/mindhub-theme/resources/assets/images/logo-mindhub.png)
+## 📚📣 Formado en `MindHub - Ubiqum Code Academy` 🙌 ✔ <img src="https://mindhubweb.com/wp-content/themes/mindhub-theme/resources/assets/images/logo-mindhub.png" width="148">
 
 [MindHub!](https://mindhubweb.com/)💾
 
